@@ -1,0 +1,27 @@
+{
+  "window": {
+    "width": 1200,
+    "height": 800,
+    "theme": "dark"
+  },
+  "colors": {
+    "primary": "#121212",
+    "accent": "#1DB954",
+    "secondary": "#1E1E1E",
+    "text": "#FFFFFF"
+  },
+  "audio": {
+    "volume": 0.8,
+    "fade_duration": 500
+  },
+  "library": {
+    "music_folders": [],
+    "auto_scan": true,
+    "scan_interval": 3600
+  },
+  "playback": {
+    "shuffle": false,
+    "repeat_mode": "off",
+    "crossfade": true
+  }
+}
